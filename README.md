@@ -1,4 +1,4 @@
-### Olá, eu sou o Warlen Silva 👋
+### Olá, eu sou Warlen Silva 👋
 
 - 🌱 Atualmente, estou focado nos estudos de **Java** e **Python**.
 - 👨‍💻 Futuramente, busco atuar profissionalmente com Java.
