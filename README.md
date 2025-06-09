@@ -1,10 +1,12 @@
 ### Olá, eu sou o Warlen Silva 👋
 
+- 🌱 Atualmente, estou focado nos estudos de **Java** e **Python**.
+- 👨‍💻 Futuramente, busco atuar profissionalmente com Java.
+- 😄 Pronomes: ele/dele
 
-- 🌱 Estudando Java/Phyton
-- 😄 Pronouns: ele/dele...
+---
 
-## Olá eu sou o Warlen Silva, estudante de Análise e Desenvolvimento de Sistemas!
+## Estudante de Análise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
